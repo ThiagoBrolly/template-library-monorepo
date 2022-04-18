@@ -1,7 +1,7 @@
 {
   "name": "@paylivre-kit/app-consumer",
   "version": "1.0.4",
-  "private": "true",
+  "private": "false",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
