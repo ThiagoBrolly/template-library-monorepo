@@ -1,6 +1,6 @@
 {
   "name": "@paylivre-kit/components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "license": "MIT",
   "main": "lib/index.js",
