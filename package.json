@@ -1,6 +1,6 @@
 {
   "name": "paylivre-kit",
-  "private": false,
+  "private": true,
   "version": "1.0.0",
   "main": "index.js",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
