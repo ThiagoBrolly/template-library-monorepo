@@ -1,7 +1,7 @@
 {
   "name": "@paylivre-kit/components",
   "version": "0.0.3",
-  "private": false,
+  "private": true,
   "license": "MIT",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
@@ -17,5 +17,5 @@
     "react-dom": ">=16.0.0"
   },
   "resolutions": {},
-  "gitHead": "95a831be81c90c8d744f751a267277aa090d93e7"
+  "gitHead": "351a38dc36300e68c6915335095cc5a454ca085d"
 }

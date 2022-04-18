@@ -1,6 +1,7 @@
 {
   "name": "@paylivre-kit/app-consumer",
   "version": "1.0.2",
+  "private": "true",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -29,5 +30,5 @@
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.7.2"
   },
-  "gitHead": "95a831be81c90c8d744f751a267277aa090d93e7"
+  "gitHead": "351a38dc36300e68c6915335095cc5a454ca085d"
 }
