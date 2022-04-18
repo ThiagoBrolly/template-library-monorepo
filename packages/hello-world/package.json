@@ -1,10 +1,11 @@
 {
   "name": "@paylivre-kit/hello-world",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "homepage": "https://github.com/ThiagoBrolly/template-library-monorepo#readme",
   "license": "ISC",
+  "private": true,
   "main": "lib/hello-world.js",
   "directories": {
     "lib": "lib",
@@ -23,5 +24,5 @@
   "bugs": {
     "url": "https://github.com/ThiagoBrolly/template-library-monorepo/issues"
   },
-  "gitHead": "9827c341876e05170031f944516e3fc0b9d0de0a"
+  "gitHead": "bd43824caf310dbb24bdc210a8ab2fb6f35a4f0b"
 }

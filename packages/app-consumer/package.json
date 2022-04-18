@@ -1,6 +1,6 @@
 {
   "name": "@paylivre-kit/app-consumer",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "private": true,
   "main": "index.js",
   "license": "MIT",
@@ -9,8 +9,8 @@
     "build-app": "cross-env NODE_ENV=production webpack"
   },
   "dependencies": {
-    "@paylivre-kit/components": "^0.0.10",
-    "@paylivre-kit/icons": "^0.0.10",
+    "@paylivre-kit/components": "^0.0.11",
+    "@paylivre-kit/icons": "^0.0.11",
     "react": "*",
     "react-dom": "*"
   },

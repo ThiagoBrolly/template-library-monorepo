@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.11](https://github.com/ThiagoBrolly/template-library-monorepo/compare/@paylivre-kit/app-consumer@1.0.10...@paylivre-kit/app-consumer@1.0.11) (2022-04-18)
+
+**Note:** Version bump only for package @paylivre-kit/app-consumer
+
+
+
+
+
 ## [1.0.10](https://github.com/ThiagoBrolly/template-library-monorepo/compare/@paylivre-kit/app-consumer@1.0.9...@paylivre-kit/app-consumer@1.0.10) (2022-04-18)
 
 **Note:** Version bump only for package @paylivre-kit/app-consumer
