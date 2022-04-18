@@ -1,6 +1,6 @@
 {
   "name": "@paylivre-kit/icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "license": "MIT",
   "main": "lib/index.js",
@@ -14,13 +14,9 @@
   "scripts": {
     "prebuild": "rimraf lib"
   },
-  "devDependencies": {
-    
-  },
   "peerDependencies": {
     "react": ">=16.0.0",
     "react-dom": ">=16.0.0"
   },
-  "resolutions": {
-  }
+  "resolutions": {}
 }

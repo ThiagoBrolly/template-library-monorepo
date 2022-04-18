@@ -1,6 +1,6 @@
 {
   "name": "@paylivre-kit/components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "license": "MIT",
   "main": "lib/index.js",
@@ -11,15 +11,10 @@
     "package.json"
   ],
   "sideEffects": false,
-  "scripts": {
-  },
-  "devDependencies": {
-    
-  },
+  "scripts": {},
   "peerDependencies": {
     "react": ">=16.0.0",
     "react-dom": ">=16.0.0"
   },
-  "resolutions": {
-  }
+  "resolutions": {}
 }
