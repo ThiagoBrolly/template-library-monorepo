@@ -1,6 +1,6 @@
 {
   "name": "@thiagobrolly/app-consumer",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -31,5 +31,5 @@
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.7.2"
   },
-  "gitHead": "4206d3f4e7f020640fc5ea0d0ee73d8dc9c81d3a"
+  "gitHead": "fc104d8429d6ae15afadc9a599748b112c7240cb"
 }
