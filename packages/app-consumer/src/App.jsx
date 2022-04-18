@@ -1,6 +1,6 @@
 import './styles/global.scss';
-import { ButtonIcon } from "@paylivre/icons";
-import { Button } from "@paylivre/components";
+import { Button } from "@paylivre-kit/components"
+import { ButtonIcon } from "@paylivre-kit/icons"
 
 export function App(){
   return (
