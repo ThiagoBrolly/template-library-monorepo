@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.13](https://github.com/ThiagoBrolly/template-library-monorepo/compare/@paylivre-kit/components@0.0.12...@paylivre-kit/components@0.0.13) (2022-04-18)
+
+**Note:** Version bump only for package @paylivre-kit/components
+
+
+
+
+
 ## [0.0.12](https://github.com/ThiagoBrolly/template-library-monorepo/compare/@paylivre-kit/components@0.0.11...@paylivre-kit/components@0.0.12) (2022-04-18)
 
 **Note:** Version bump only for package @paylivre-kit/components

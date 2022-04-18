@@ -1,7 +1,6 @@
 {
   "name": "@paylivre-kit/components",
-  "version": "0.0.12",
-  "private": true,
+  "version": "0.0.13",
   "license": "MIT",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
