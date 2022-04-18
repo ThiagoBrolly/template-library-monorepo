@@ -1,6 +1,6 @@
 {
   "name": "@thiagobrolly/icons",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "license": "MIT",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
@@ -18,5 +18,5 @@
     "react-dom": ">=16.0.0"
   },
   "resolutions": {},
-  "gitHead": "fc104d8429d6ae15afadc9a599748b112c7240cb"
+  "gitHead": "d7b7021e0f0b57c655aaefc457f7fa2d8f04abc0"
 }
